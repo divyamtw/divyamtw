@@ -1,6 +1,8 @@
 # Hi there 👋 I'm Divyam Tiwari
 
-💻 Full-stack developer who enjoys building useful applications, experimenting with AI, and exploring game development.
+💻 I build things that seem interesting — apps, AI experiments, games, and random ideas that pop into my head.
+
+⚡ I like exploring new technologies and using whatever tools get the job done.
 
 ---
 
