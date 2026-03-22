@@ -6,11 +6,4 @@ I like exploring new technologies and using whatever tools get the job done.
 
 ---
 
-### ⚡ Currently Exploring
-- AI + LLM applications
-- Building useful developer tools
-- Game development experiments
-  
----
-
 ⭐ Always learning. Always building.
